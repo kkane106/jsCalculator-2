@@ -24,9 +24,4 @@ As usual this is going to be a pass fail assignment. If your program meets all t
 
 [ ]: `=` returns the sum of the current operation  
 
-[ ]: All the necessary calculator buttons are assigned click events which result in some action being performed (be it updating the displayed value, or performing math)
-
-### Stretch Goals
-[ ]: Handles decimals  
-
-[ ]: Users can enter values/perform math with keyboard input (keypress)  
+[ ]: All the necessary calculator buttons are assigned click events which result in some action being performed (be it updating the displayed value, or performing math)  
